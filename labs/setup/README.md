@@ -92,3 +92,16 @@ gh auth login
 ```
 
 ## Running Pytest Test Cases
+
+To run these test cases manually, follow the steps below:
+
+```sh
+# Activate the virtual environment using Windows command prompt.
+venv\Scripts\activate
+
+# Activate the virtual environment using OSX/Linux
+./venv/bin/activate
+
+# run the tests
+pytest
+```
