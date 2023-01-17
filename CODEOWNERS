@@ -1,0 +1,26 @@
+# CircleCI configuration files
+/.circleci/               @kevtr0n
+
+# Static assets
+/static/                  @kevtr0n
+
+# Static images
+/static/images/*          @kevtr0n
+
+# All robot framework test scripts
+*.robot                   @kevtr0n
+
+# The codeowner configuration file
+CODEOWNERS                @kevtr0n
+
+# Git configuration files
+.gitignore                @kevtr0n
+
+# Any markdown files
+*.md                      @kevtr0n
+
+# The test runner script
+runtests.py               @kevtr0n
+
+# The python package requirements file
+requirements.txt          @kevtr0n
